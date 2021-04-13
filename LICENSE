@@ -9,6 +9,9 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
+Fair use policy: Any and all modification and copying of this program is allowed. You may not however take this exact code and claim it as your own, nor may you slightly modify^1 it and claim it as your own. 
+1 - Slight Modification : Slight modification is defined under this code as at least 2 or more *functioning* commands, and one *functioning * cog. So, for example you may *not*, simply add your token in and claim the bot as your own. You may *not* simply add a command that says hello and claim the code as your own, and you may *not* simply change some variable names and claim the code as your own.
+
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
